@@ -1,0 +1,12 @@
+{
+  "name": "internet-shortcut-loader",
+  "version": "0.0.1",
+  "description": "fetch external content from internet shortcut at bundle time",
+  "main": "index.js",
+  "author": "Spoqa Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "ini": "^1.3.4",
+    "request": "^2.81.0"
+  }
+}
